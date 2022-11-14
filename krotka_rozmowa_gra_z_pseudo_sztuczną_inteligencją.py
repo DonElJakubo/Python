@@ -18,7 +18,7 @@ if c=="tak":
     print("Liczby są w przedziale od 1 do 10")
     print("A i jeszcze jedno, żeby trochę utrudnić grę, masz tylko 3 podejścia")
     print("Podaj więc liczbę od 1 do 10:")
-    # Po zaakceptowaniu zaproszenia do gry wpisujemy losową liczbę w przedziale 1-10
+# Po zaakceptowaniu zaproszenia do gry wpisujemy losową liczbę w przedziale 1-10
     x=int(input())
     if x==5:
         print("Świetnie, zgadłeś za pierwszysm razem")
